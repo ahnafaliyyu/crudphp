@@ -82,6 +82,7 @@ c:\xampp\htdocs\web php\
 
 ## Screenshot Aplikasi
 
-![Tampilan Halaman Utama](uploads/6900915814dec_Screenshot%202025-10-28%20154005.png)
+![Tampilan Halaman Utama](<img width="1894" height="982" alt="image" src="https://github.com/user-attachments/assets/e362ae8d-3e32-47b6-ac7c-98729555e09e" />
+)
 
 ```
